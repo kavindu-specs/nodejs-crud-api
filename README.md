@@ -14,3 +14,10 @@ The project is useful for learning how to:
 > ⚙️ No external database or third-party frameworks used.
 
 
+---
+
+## 🙋‍♂️ Author
+
+*Kavindu Prabodya Senanayake*  
+[GitHub](https://github.com/kavindu-specs) • [LinkedIn](https://www.linkedin.com/in/kavindu-prabodya-b25125139) • [Email](mailto:kavinduprabodya@gmail.com)
+
